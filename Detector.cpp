@@ -523,3 +523,7 @@ void Detector::allFileTest(string inFileFolder, string outFileFolder) {
 
     outfile.close();
 }
+
+void test_func2() {
+    cout << "hello" << endl;
+}

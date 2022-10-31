@@ -23,5 +23,7 @@ public:
     // 全文件测试
     void allFileTest(std::string inFileFolder, std::string outFileFolder);
 
+    // 测试Clion git
+    void test_func2();
 
 };
