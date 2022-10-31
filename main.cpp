@@ -18,6 +18,7 @@ int main(int argc, char *argv[]) {
         cout << a[i] << endl;
     }
 
+    // test
     Detector detector;
     if(!single_file_test) {
         string infileName = argv[2];
