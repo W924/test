@@ -3,6 +3,7 @@
 #include <random>
 #include <string>
 
+void test_func();
 
 std::vector<std::string> split(std::string str, std::string pattern);
 

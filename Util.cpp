@@ -8,6 +8,14 @@
 
 using namespace std;
 
+void test_func1() {
+    vector<int> a;
+    a.reserve(100);
+    for(int i = 0; i<a.size(); i++) {
+        cout << a[i] << endl;
+    }
+}
+
 
 vector<string> split(string str, string pattern)
 {
